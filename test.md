@@ -9,3 +9,6 @@ tabstave
   notes :8 t12p7/4 s5s3/4 :8 3s:16:5-7/5 :h p5/4
   text :w, |#segno, ,|, :hd, , #tr
 :::
+
+c1:                    Am
+l1: All the leaves are brown
