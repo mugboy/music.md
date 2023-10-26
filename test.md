@@ -10,5 +10,6 @@ tabstave
   text :w, |#segno, ,|, :hd, , #tr
 :::
 
-c1:                    Am
+c1:                     Am
+
 l1: All the leaves are brown
